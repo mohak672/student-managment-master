@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">NirvanaApp</string>
+    <string name="adminlog">Admin login</string>
+    <string name="username">Username</string>
+    <string name="name">name</string>
+    <string name="branch">Addmision No.</string>
+    <string name="state">state</string>
+    <string name="blood">Blood Group</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="father">Father Name</string>
+    <string name="fullname">Full Name</string>
+    <string name="standard">Standard</string>
+    <string name="school">school</string>
+    <string name="roll">Roll No.</string>
+    <string name="group">Group No.</string>
+    <string name="medium">medium</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="skip">Skip Login</string>
+    <string name="volunteerlog">Volunteer Login</string>
+    <string name="addvolu">Add New Volunteer</string>
+    <string name="addadmin">Add New Admin</string>
+    <string name="addstudent">Add New Student</string>
+    <string name="seevolu">See Volunteer Detail</string>
+    <string name="seeadmin">See Admin Detail</string>
+    <string name="seestudent">See Student Detail</string>
+    <string name="enteradmin">Enter Admin Detail</string>
+    <string name="repass">Re-enter password</string>
+    <string name="add">Add</string>
+    <string name="aboutus">About Us</string>
+    <string name="addwork">Add Daily Work</string>
+    <string name="hii">Hello Volunteers...</string>
+    <string name="seestd">See Student</string>
+    <string name="vname">Volunteer Name</string>
+    <string name="detail">add what did you teach today</string>
+    <string name="press">..</string>
+    <string name="e23">select date</string>
+
+
+</resources>

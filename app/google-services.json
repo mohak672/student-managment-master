@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363783318757",
+    "firebase_url": "https://nirvana-app-426c6.firebaseio.com",
+    "project_id": "nirvana-app-426c6",
+    "storage_bucket": "nirvana-app-426c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363783318757:android:b1e9db3a387d687835b80c",
+        "android_client_info": {
+          "package_name": "com.example.nirvanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363783318757-tvu1ri400cp77sg9povbqp1blrk9q6l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOBwrOnNhTpjJM5Dr7KcXpLO7sMrUVHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363783318757-tvu1ri400cp77sg9povbqp1blrk9q6l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
